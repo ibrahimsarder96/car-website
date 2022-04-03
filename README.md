@@ -1,6 +1,6 @@
 # garir bazar
 
-live website [link]().
+live website [link](https://cool-stardust-a98e9a.netlify.app).
 -  dashboard
 -  customer review
 -  blogs
