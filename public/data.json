@@ -1,0 +1,44 @@
+[
+  {"id":1,
+    "name":"Andre Turner",
+    "review":"I have been an event planner for 9 years. However, I decided to take this course to keep up with the latest in events. I was so pleased to find out that all the information that I needed was there. I will be taking more courses as this one was extremely beneficial for my career.",
+    "ratting": 5.3,
+    "photo":"https://user-images.trustpilot.com/503f6bd70000640001205721/73x73.png",
+    "img":"https://img.freepik.com/free-photo/blue-jeep-parking-public-zone_114579-4042.jpg?size=626&ext=jpg&ga=GA1.1.142737712.1632825724"
+    },
+  {"id":2,
+    "name":"Luke Whild",
+    "review":"Amazing, I can focus on my training and hobbies and never have to worry about what im going to eat or go shopping, you get loads of fresh produce and meat for the money, i like to meal prep and eat throughout the day, recipes are damn tasty too. cant see my self stopping deliveries anytime soon.",
+    "ratting": 4.5,
+    "photo":"https://user-images.trustpilot.com/5c7819c607dd786aec288eb9/73x73.png",
+    "img":"https://img.freepik.com/free-photo/black-car-traveling-snow_470606-817.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+    },
+  {"id":3,
+    "name":"P-J Ligtning",
+    "review":"Very good. The wooden swords are reasonably well balanced and the handles are not too thick for my grip. They arrived well packaged. Just what I needed and arrived quickly.",
+    "ratting": 5.2,
+    "photo":"https://user-images.trustpilot.com/596a419f0000ff000aafb48d/73x73.png",
+    "img":"https://img.freepik.com/free-photo/white-offroader-jeep-parking_114579-4007.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+    },
+  {"id":4,
+    "name":"Noreen Khan",
+    "review":"called him and he was lost and I tried to give him directions but he was very rude. He did not deliver the order and marked it as delivered in the application. I contacted HungerStation. They did not help and never refunded my money. Will never use HungerStation again",
+    "ratting": 2.0,
+    "photo":"https://user-images.trustpilot.com/624895660b70910012e1869d/73x73.png",
+    "img":"https://img.freepik.com/free-photo/luxury-car-modern-elegant-black-car-illuminated-3d-render-3d-illustration_230313-11.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+    },
+  {"id":5,
+    "name":"Suna roy",
+    "review":"Total garbage, Superfast broadband but if you like gaming, laggy, finish last virtually every game, the support are a joke, unplug your router wait for 30 seconds then plug back in that's it that's their support, I cant understand what they are saying this is my last month after 10 years with them and it can't come to quick, seriously until they improve don't touch them.",
+    "ratting": 4.2,
+    "photo":"https://user-images.trustpilot.com/5f1b0900fd9075e69982488d/73x73.png",
+    "img":"https://img.freepik.com/free-photo/luxury-car-modern-elegant-black-car-illuminated-3d-render-3d-illustration_230313-12.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+    },
+  {"id":6,
+    "name":"Donna smith",
+    "review":"I did have some slight problems with the wheel tru but sent it back and it come back within a week so had no problems plus I have some complimentary things that they give me more than happy after service 10 out of 10.",
+    "ratting": 5.1,
+    "photo":"https://user-images.trustpilot.com/549860a200006400019f7b09/73x73.png",
+    "img":"https://img.freepik.com/free-photo/luxury-car-modern-elegant-black-car-illuminated-3d-render-3d-illustration_230313-13.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724"
+    }
+]
