@@ -1,7 +1,10 @@
 # garir bazar
--  deshibord
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+live website [link]().
+-  dashboard
+-  customer review
+-  blogs
+-  all reviews
 ## Available Scripts
 
 In the project directory, you can run:
