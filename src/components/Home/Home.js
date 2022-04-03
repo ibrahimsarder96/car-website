@@ -1,8 +1,16 @@
 import React from 'react';
 import useHomeReview from '../Hookes/useHomeReview';
-
+import ReviewHome from '../ReviewHome/ReviewHome';
+import { useNavigate } from 'react-router-dom';
 const Home = () => {
   const [reviews, setReviews] = useHomeReview();
+  let command = reviews.slice(0, 3)
+  
+  const navigate = useNavigate();
+  const showReview = () =>{
+    navigate('/reviews')
+  }
+  
   return (
    <div>
       <div className='md:flex my-48'>
@@ -15,11 +23,18 @@ const Home = () => {
       <img src="https://img.freepik.com/free-vector/blue-sports-car-isolated-white-vector_53876-67418.jpg?size=626&ext=jpg&ga=GA1.2.142737712.1632825724" alt="" />
       </div>
     </div>
-    <section>
-      <div>
-        <h1>{reviews.length}</h1>
+    <section className=' mt-8 p-4 bg-indigo-300'>
+        <h1 className='text-4xl'>Customer Reviews:{command.length}</h1>
+      <div className='grid md:grid-cols-3 gap-3 mt-8'>
+      {
+        command.map(review => <ReviewHome 
+          review={review}
+          key={review.id}
+          ></ReviewHome>)
+      }
       </div>
     </section>
+    <button onClick={showReview} className='my-8 border py-2 px-3 rounded-lg bg-indigo-300 text-white text-xl text-bold'>See All Review</button>
    </div>
   );
 };
